@@ -1,4 +1,11 @@
 nav{
+    width: 150px;
+    height: 200px;
+    padding: 20px;
+    margin: 40px;
+}
+
+.template {
     width: 100px;
     height: 200px;
     padding: 20px;
